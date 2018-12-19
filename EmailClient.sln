@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIForms", "UIForms\UIForms.csproj", "{D343B557-FC24-4AC1-9051-152F76AD9B3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailEngine", "EmailEngine\EmailEngine.csproj", "{DC480DE1-DEC6-47E5-A7F8-F473222731EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D343B557-FC24-4AC1-9051-152F76AD9B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D343B557-FC24-4AC1-9051-152F76AD9B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D343B557-FC24-4AC1-9051-152F76AD9B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D343B557-FC24-4AC1-9051-152F76AD9B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC480DE1-DEC6-47E5-A7F8-F473222731EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC480DE1-DEC6-47E5-A7F8-F473222731EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC480DE1-DEC6-47E5-A7F8-F473222731EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC480DE1-DEC6-47E5-A7F8-F473222731EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4083B29-A360-4335-A151-3AC7997C278B}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://yodaperdikaris.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = UIForms\\UIForms.csproj
+		SccProjectName1 = UIForms
+		SccLocalPath1 = UIForms
+		SccProjectUniqueName2 = EmailEngine\\EmailEngine.csproj
+		SccProjectName2 = EmailEngine
+		SccLocalPath2 = EmailEngine
+	EndGlobalSection
+EndGlobal
